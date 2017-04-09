@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">微博</string>
+
+    <string name="copy_success">复制成功</string>
+
+
+    <!-- Error View -->
+    <string name="error_view_no_data">暂无内容</string>
+    <string name="error_view_loading">加载中…</string>
+    <string name="error_view_load_error_click_to_refresh">内容加载失败\r\n点击重新加载</string>
+    <string name="error_view_network_error_click_to_refresh">没有可用的网络</string>
+    <string name="tip_network_error">没有可用的网络</string>
+
+    <string name="footer_type_loading">正在加载中…</string>
+    <string name="footer_type_error">加载失败</string>
+    <string name="footer_type_net_error">网络错误</string>
+    <string name="footer_type_not_more">没有更多数据</string>
+
+
+    <string name="sinasso_cancle">新浪微博授权取消</string>
+    <string name="sinasso_feild">新浪微博授权失败</string>
+    <string name="sinasso_success">新浪微博授权成功</string>
+
+
+    <string name="sinamenu01">首页</string>
+    <string name="sinamenu02">公共微博</string>
+    <string name="sinamenu03">发微博</string>
+    <string name="sinamenu06">退出</string>
+
+    <string name="image_gallery_title">图片浏览器</string>
+    <string name="browser_title">浏览器</string>
+    <string name="weibo_detail_title">微博正文</string>
+
+    <string name="toolbar_title_add">添加微博</string>
+
+    <!-- 下拉刷新时，颜色值 -->
+    <color name="swiperefresh_color1">#ff00ddff</color>
+    <color name="swiperefresh_color2">#ffffbb33</color>
+    <color name="swiperefresh_color3">#ffff4444</color>
+    <color name="swiperefresh_color4">#ffaa66cc</color>
+
+    <!-- Time -->
+    <string name="just_now">刚刚</string>
+    <string name="min">分钟前</string>
+    <string name="hour">小时前</string>
+    <string name="day">天前</string>
+    <string name="month">月前</string>
+    <string name="year">年前</string>
+    <string name="today">今天</string>
+    <string name="yesterday">昨天</string>
+    <string name="the_day_before_yesterday">前天</string>
+
+    <string name="gallery_save_file_not_have_external_storage">没有外部存储!</string>
+    <string name="gallery_save_file_success">保存成功!</string>
+    <string name="gallery_save_file_failed">存储失败!</string>
+    <string name="image_select_opt_done">完成</string>
+    <string name="image_select_opt_preview">预览</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_image_gallery">ImageGalleryActivity</string>
+
+    <string name="state_network_error">网络错误</string>
+    <string name="state_loading">正在加载…</string>
+    <string name="state_not_more">没有更多数据</string>
+    <string name="state_load_error">加载失败</string>
+    <string name="state_refreshing">正在刷新</string>
+
+    <string name="tip_content_empty">内容不能为空</string>
+    <string name="tip_content_too_long">内容太长</string>
+
+    <string name="weibo_publish_title">发布微博</string>
+    <string name="weibo_publishing">正在发布微博…</string>
+    <string name="weibo_publishing_toast">正在发布微博, 请稍后刷新。</string>
+    <string name="weibo_publish_success">微博发布成功~</string>
+    <string name="weibo_image_wait">准备图片中…</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/slidingmenu_home"
+            android:title="@string/sinamenu01" />
+        <item
+            android:id="@+id/public_weibo"
+            android:icon="@drawable/slidingmenu_hot"
+            android:title="@string/sinamenu02" />
+        <item
+            android:id="@+id/send_weibo"
+            android:icon="@drawable/slidingmenu_search"
+            android:title="@string/sinamenu03" />
+
+        <item
+            android:id="@+id/exit_system"
+            android:icon="@drawable/slidingmenu_theme"
+            android:title="@string/sinamenu06" />
+    </group>
+
+</menu>

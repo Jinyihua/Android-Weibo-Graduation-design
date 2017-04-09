@@ -1,0 +1,43 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">170dp</dimen>
+
+    <!--首页的其他设置-->
+    <dimen name="home_weiboitem_marginleftright">8dp</dimen><!--距离屏幕左右边缘的间距-->
+    <!--图片列表的上下间距与左右间距-->
+    <!--微博列表的上下间距-->
+
+
+    <!--微博顶部TitleBar的各项字体大小-->
+    <dimen name="home_weiboitem_title_profile_pic">38dp</dimen><!--头像大小（长宽相等）-->
+    <dimen name="home_weiboitem_title_profile_name">14sp</dimen><!--发微博用户-->
+    <dimen name="home_weiboitem_title_profile_time">12sp</dimen><!--微博时间-->
+    <dimen name="home_weiboitem_title_weibocomefrom">12sp</dimen><!--微博来源-->
+
+    <!--顶部标题栏的高度-->
+
+    <!--底部导航栏的高度-->
+
+    <!--微博顶部BottomBar的各项字体大小-->
+    <dimen name="home_weiboitem_bottombar_font">12sp</dimen><!--底部Bar的字体大小-->
+
+    <!--微博内容中字体大小-->
+    <dimen name="home_weiboitem_detail_bottom_bar_font">14sp</dimen>
+
+    <!--原创内容的字体大小-->
+    <dimen name="home_original_weiboitem_font">16sp</dimen><!--微博内容中字体大小:16中号,15小号-->
+    <dimen name="home_original_weiboitem_linespace">3dp</dimen><!--微博内容中行距大小-->
+
+    <!--转发内容的字体大小-->
+    <dimen name="home_retweet_weiboitem_font">15sp</dimen><!--转发内容中的字体大小：15中号，14小号-->
+
+
+    <dimen name="space_49">49dip</dimen>
+    <dimen name="space_10">10.0dip</dimen>
+    <dimen name="space_8">8.0dip</dimen>
+    <dimen name="space_5">5.0dip</dimen>
+</resources>

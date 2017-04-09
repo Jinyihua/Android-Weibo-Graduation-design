@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="windowBackground">#1a1a1a</color><!--window的背景样式-->
+    <!-- TopBar 一系列颜色 -->
+    <!--顶部Bar的背景样式-->
+    <!--顶部Bar字体颜色-->
+    <!--顶部Bar的底部分割线-->
+    <!--顶部Bar的按压颜色-->
+    <!--顶部Bar的左右字体的颜色-->
+    <color name="topbar_leftright_text_highlight">#2f4159</color><!--顶部Bar的左右字体的高亮颜色-->
+    <!-- searchHeadView-夜晚-->
+    <!--window的背景样式-->
+    <!--微博的普通背景颜色-->
+
+    <!--加载的进度条 -->
+    <!--底部Loading的背景-->
+    <!--底部Loading的文字背景-->
+
+    <!--空的EmptyView -->
+    <color name="empty_bg">#252525</color>
+    <color name="empty_text">#4e4e4e</color>
+
+    <!--发微博界面 -->
+
+    <!--@我的 -->
+
+    <!--评论我的 -->
+
+    <!-- 原创微博内容颜色-夜晚-->
+    <!--普通背景颜色-->
+    <!--press的背景颜色-->
+    <color name="home_weiboitem_title_profile_name">#f46403</color><!--用户名称-->
+    <color name="home_weiboitem_title_profile_time">#434446</color><!--微博时间-->
+    <color name="home_weiboitem_title_weibocomefrom">#434446</color><!--微博来源-->
+    <color name="home_original_weiboitem_font">#898989</color><!--微博内容-->
+    <!--关键词的颜色-->
+
+    <!--转发的内容区-夜晚-->
+    <!--普通背景颜色-->
+    <!--press的背景颜色-->
+    <color name="home_retweet_weiboitem_font">#6e6e6e</color><!--转发内容中的字体颜色-->
+    <!--转发内容中的背景颜色-->
+
+    <!--显示微博转发数，评论数，赞数的bar-->
+    <color name="commentbar_bg">#262626</color><!--普通背景颜色-->
+    <!--press的背景颜色-->
+    <color name="commentbar_top_drive">#202020</color><!--顶部的分割线-->
+    <color name="commentbar_vertical_drive">#1f1f1f</color><!--竖直的分割线-->
+
+    <!--微博底部Bar-夜晚-->
+    <!--底部bar的背景样式-->
+    <color name="home_bottombar_font">#6c6c6c</color><!--底部bar字体颜色-->
+    <!--顶部分割线的颜色-->
+
+    <!--状态栏-夜晚 -->
+    <!--状态栏的背景样式-->
+    <!--状态栏的的文字样颜色-->
+
+    <!--按钮栏-白天 -->
+    <!--状态栏的的文字样颜色-->
+    <!--状态栏的的文字样颜色-->
+
+    <!--正在加载时候图片的占位图颜色-白天 -->
+    <!--状态栏的的背景颜色-->
+
+    <!--单条评论的颜色-黑夜 -->
+    <color name="comment_item_name">#888888</color>
+    <color name="comment_item_content">#6c6c6c</color>
+    <color name="comment_item_top_drive">#202020</color>
+
+    <!--数字，包括评论，转发，点赞栏的颜色-白天 -->
+    <color name="detail_count_bg">#2b2b2b</color>
+
+    <!--发微博界面-白天 -->
+
+    <!-- toast的背景色 -->
+
+    <!--我的关注 -->
+    <!--互相关注 -->
+    <!--已关注 -->
+    <!--加关注 -->
+
+    <!--我的粉丝 -->
+
+    <!--互相关注 -->
+    <!--已关注 -->
+    <!--加关注 -->
+
+    <!-- account -->
+
+    <color name="white">#FFFFFF</color><!--白色 -->
+    <!--橙色 -->
+    <!--灰色 -->
+    <!--灰色 -->
+    <!--红色 -->
+    <color name="black">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+
+
+</resources>
